@@ -2,4 +2,4 @@ def HelloWorld(name):
     print(name)
 
 
-HelloWorld(" GIT IS AWSOME! ")
+HelloWorld(" GIT IS AWSOME!")
